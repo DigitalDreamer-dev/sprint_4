@@ -1,16 +1,37 @@
-# React + Vite
+# 🤖 AI Cover Letter Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered web application that generates professional, ATS-friendly cover letters using the Google Gemini API. Users can enter job details, upload a PDF resume, and receive a personalized cover letter.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Generate AI-powered cover letters
+- Upload and analyze PDF resumes
+- Add and remove technical skills
+- Copy generated cover letters
+- Responsive design for desktop and mobile
+- Loading state during AI generation
+- Secure API key management using `.env`
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript
+- Google Gemini API
+- PDF.js
+- CSS
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](./coverLetter.png)
+
+## 📄 AI Usage
+
+AI assistance was used for:
+- UI color and layout ideas
+- Gemini API integration
+- Debugging and resolving development errors
+
+## 👩‍💻 Author
+
+**Dipika Yadav**
