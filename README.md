@@ -23,7 +23,7 @@ An AI-powered web application that generates professional, ATS-friendly cover le
 
 ## 📸 Screenshot
 
-![App Screenshot](./coverLetter.png)
+![App Screenshot](./AICoverLetterSS.png)
 
 ## 📄 AI Usage
 
